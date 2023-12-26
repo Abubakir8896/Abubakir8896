@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abubakir
 - 👀 I’m interested in NodeJs Backend
-- 🌱 I’m currently learning Najot Ta'lim
+- 🌱 I’m currently learning at Najot Ta'lim
 
 <!---
 Abubakir8896/Abubakir8896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
